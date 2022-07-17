@@ -1,0 +1,118 @@
+C:\Users\mcamock\source\repos\ProductProducer\bin\ProductProducer.dll.config
+C:\Users\mcamock\source\repos\ProductProducer\bin\ProductProducer.dll
+C:\Users\mcamock\source\repos\ProductProducer\bin\ProductProducer.pdb
+C:\Users\mcamock\source\repos\ProductProducer\bin\roslyn\csc.exe
+C:\Users\mcamock\source\repos\ProductProducer\bin\roslyn\csc.exe.config
+C:\Users\mcamock\source\repos\ProductProducer\bin\roslyn\csc.rsp
+C:\Users\mcamock\source\repos\ProductProducer\bin\roslyn\csi.exe
+C:\Users\mcamock\source\repos\ProductProducer\bin\roslyn\csi.exe.config
+C:\Users\mcamock\source\repos\ProductProducer\bin\roslyn\csi.rsp
+C:\Users\mcamock\source\repos\ProductProducer\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\mcamock\source\repos\ProductProducer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mcamock\source\repos\ProductProducer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\mcamock\source\repos\ProductProducer\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\mcamock\source\repos\ProductProducer\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\mcamock\source\repos\ProductProducer\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\mcamock\source\repos\ProductProducer\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\mcamock\source\repos\ProductProducer\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\mcamock\source\repos\ProductProducer\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\mcamock\source\repos\ProductProducer\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\mcamock\source\repos\ProductProducer\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\mcamock\source\repos\ProductProducer\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\mcamock\source\repos\ProductProducer\bin\roslyn\System.AppContext.dll
+C:\Users\mcamock\source\repos\ProductProducer\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\mcamock\source\repos\ProductProducer\bin\roslyn\System.Console.dll
+C:\Users\mcamock\source\repos\ProductProducer\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\mcamock\source\repos\ProductProducer\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\mcamock\source\repos\ProductProducer\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\mcamock\source\repos\ProductProducer\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\mcamock\source\repos\ProductProducer\bin\roslyn\System.IO.Compression.dll
+C:\Users\mcamock\source\repos\ProductProducer\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\mcamock\source\repos\ProductProducer\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\mcamock\source\repos\ProductProducer\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\mcamock\source\repos\ProductProducer\bin\roslyn\System.Net.Http.dll
+C:\Users\mcamock\source\repos\ProductProducer\bin\roslyn\System.Net.Sockets.dll
+C:\Users\mcamock\source\repos\ProductProducer\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\mcamock\source\repos\ProductProducer\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\mcamock\source\repos\ProductProducer\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\mcamock\source\repos\ProductProducer\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\mcamock\source\repos\ProductProducer\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\mcamock\source\repos\ProductProducer\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\mcamock\source\repos\ProductProducer\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\mcamock\source\repos\ProductProducer\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\mcamock\source\repos\ProductProducer\bin\roslyn\System.ValueTuple.dll
+C:\Users\mcamock\source\repos\ProductProducer\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\mcamock\source\repos\ProductProducer\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\mcamock\source\repos\ProductProducer\bin\roslyn\System.Xml.XPath.dll
+C:\Users\mcamock\source\repos\ProductProducer\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\mcamock\source\repos\ProductProducer\bin\roslyn\vbc.exe
+C:\Users\mcamock\source\repos\ProductProducer\bin\roslyn\vbc.exe.config
+C:\Users\mcamock\source\repos\ProductProducer\bin\roslyn\vbc.rsp
+C:\Users\mcamock\source\repos\ProductProducer\bin\roslyn\VBCSCompiler.exe
+C:\Users\mcamock\source\repos\ProductProducer\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\mcamock\source\repos\ProductProducer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\mcamock\source\repos\ProductProducer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\mcamock\source\repos\ProductProducer\obj\Debug\ProductProducer.csproj.AssemblyReference.cache
+C:\Users\mcamock\source\repos\ProductProducer\obj\Debug\ProductProducer.csproj.CoreCompileInputs.cache
+C:\Users\mcamock\source\repos\ProductProducer\obj\Debug\ProductProducer.csproj.CopyComplete
+C:\Users\mcamock\source\repos\ProductProducer\obj\Debug\ProductProducer.dll
+C:\Users\mcamock\source\repos\ProductProducer\obj\Debug\ProductProducer.pdb
+C:\Users\sanke\Desktop\PRACS\AWT PRACTS\productDisplay\ProductProducer\bin\ProductProducer.dll.config
+C:\Users\sanke\Desktop\PRACS\AWT PRACTS\productDisplay\ProductProducer\bin\ProductProducer.dll
+C:\Users\sanke\Desktop\PRACS\AWT PRACTS\productDisplay\ProductProducer\bin\ProductProducer.pdb
+C:\Users\sanke\Desktop\PRACS\AWT PRACTS\productDisplay\ProductProducer\bin\roslyn\csc.exe
+C:\Users\sanke\Desktop\PRACS\AWT PRACTS\productDisplay\ProductProducer\bin\roslyn\csc.exe.config
+C:\Users\sanke\Desktop\PRACS\AWT PRACTS\productDisplay\ProductProducer\bin\roslyn\csc.rsp
+C:\Users\sanke\Desktop\PRACS\AWT PRACTS\productDisplay\ProductProducer\bin\roslyn\csi.exe
+C:\Users\sanke\Desktop\PRACS\AWT PRACTS\productDisplay\ProductProducer\bin\roslyn\csi.exe.config
+C:\Users\sanke\Desktop\PRACS\AWT PRACTS\productDisplay\ProductProducer\bin\roslyn\csi.rsp
+C:\Users\sanke\Desktop\PRACS\AWT PRACTS\productDisplay\ProductProducer\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\sanke\Desktop\PRACS\AWT PRACTS\productDisplay\ProductProducer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sanke\Desktop\PRACS\AWT PRACTS\productDisplay\ProductProducer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\sanke\Desktop\PRACS\AWT PRACTS\productDisplay\ProductProducer\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\sanke\Desktop\PRACS\AWT PRACTS\productDisplay\ProductProducer\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\sanke\Desktop\PRACS\AWT PRACTS\productDisplay\ProductProducer\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\sanke\Desktop\PRACS\AWT PRACTS\productDisplay\ProductProducer\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\sanke\Desktop\PRACS\AWT PRACTS\productDisplay\ProductProducer\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\sanke\Desktop\PRACS\AWT PRACTS\productDisplay\ProductProducer\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\sanke\Desktop\PRACS\AWT PRACTS\productDisplay\ProductProducer\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\sanke\Desktop\PRACS\AWT PRACTS\productDisplay\ProductProducer\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\sanke\Desktop\PRACS\AWT PRACTS\productDisplay\ProductProducer\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\sanke\Desktop\PRACS\AWT PRACTS\productDisplay\ProductProducer\bin\roslyn\System.AppContext.dll
+C:\Users\sanke\Desktop\PRACS\AWT PRACTS\productDisplay\ProductProducer\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\sanke\Desktop\PRACS\AWT PRACTS\productDisplay\ProductProducer\bin\roslyn\System.Console.dll
+C:\Users\sanke\Desktop\PRACS\AWT PRACTS\productDisplay\ProductProducer\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\sanke\Desktop\PRACS\AWT PRACTS\productDisplay\ProductProducer\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\sanke\Desktop\PRACS\AWT PRACTS\productDisplay\ProductProducer\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\sanke\Desktop\PRACS\AWT PRACTS\productDisplay\ProductProducer\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\sanke\Desktop\PRACS\AWT PRACTS\productDisplay\ProductProducer\bin\roslyn\System.IO.Compression.dll
+C:\Users\sanke\Desktop\PRACS\AWT PRACTS\productDisplay\ProductProducer\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\sanke\Desktop\PRACS\AWT PRACTS\productDisplay\ProductProducer\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\sanke\Desktop\PRACS\AWT PRACTS\productDisplay\ProductProducer\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\sanke\Desktop\PRACS\AWT PRACTS\productDisplay\ProductProducer\bin\roslyn\System.Net.Http.dll
+C:\Users\sanke\Desktop\PRACS\AWT PRACTS\productDisplay\ProductProducer\bin\roslyn\System.Net.Sockets.dll
+C:\Users\sanke\Desktop\PRACS\AWT PRACTS\productDisplay\ProductProducer\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\sanke\Desktop\PRACS\AWT PRACTS\productDisplay\ProductProducer\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\sanke\Desktop\PRACS\AWT PRACTS\productDisplay\ProductProducer\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\sanke\Desktop\PRACS\AWT PRACTS\productDisplay\ProductProducer\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\sanke\Desktop\PRACS\AWT PRACTS\productDisplay\ProductProducer\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\sanke\Desktop\PRACS\AWT PRACTS\productDisplay\ProductProducer\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\sanke\Desktop\PRACS\AWT PRACTS\productDisplay\ProductProducer\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\sanke\Desktop\PRACS\AWT PRACTS\productDisplay\ProductProducer\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\sanke\Desktop\PRACS\AWT PRACTS\productDisplay\ProductProducer\bin\roslyn\System.ValueTuple.dll
+C:\Users\sanke\Desktop\PRACS\AWT PRACTS\productDisplay\ProductProducer\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\sanke\Desktop\PRACS\AWT PRACTS\productDisplay\ProductProducer\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\sanke\Desktop\PRACS\AWT PRACTS\productDisplay\ProductProducer\bin\roslyn\System.Xml.XPath.dll
+C:\Users\sanke\Desktop\PRACS\AWT PRACTS\productDisplay\ProductProducer\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\sanke\Desktop\PRACS\AWT PRACTS\productDisplay\ProductProducer\bin\roslyn\vbc.exe
+C:\Users\sanke\Desktop\PRACS\AWT PRACTS\productDisplay\ProductProducer\bin\roslyn\vbc.exe.config
+C:\Users\sanke\Desktop\PRACS\AWT PRACTS\productDisplay\ProductProducer\bin\roslyn\vbc.rsp
+C:\Users\sanke\Desktop\PRACS\AWT PRACTS\productDisplay\ProductProducer\bin\roslyn\VBCSCompiler.exe
+C:\Users\sanke\Desktop\PRACS\AWT PRACTS\productDisplay\ProductProducer\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\sanke\Desktop\PRACS\AWT PRACTS\productDisplay\ProductProducer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\sanke\Desktop\PRACS\AWT PRACTS\productDisplay\ProductProducer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\sanke\Desktop\PRACS\AWT PRACTS\productDisplay\ProductProducer\obj\Debug\ProductProducer.csproj.AssemblyReference.cache
+C:\Users\sanke\Desktop\PRACS\AWT PRACTS\productDisplay\ProductProducer\obj\Debug\ProductProducer.csproj.CoreCompileInputs.cache
+C:\Users\sanke\Desktop\PRACS\AWT PRACTS\productDisplay\ProductProducer\obj\Debug\ProductProducer.csproj.CopyComplete
+C:\Users\sanke\Desktop\PRACS\AWT PRACTS\productDisplay\ProductProducer\obj\Debug\ProductProducer.dll
+C:\Users\sanke\Desktop\PRACS\AWT PRACTS\productDisplay\ProductProducer\obj\Debug\ProductProducer.pdb
